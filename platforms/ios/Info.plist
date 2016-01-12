@@ -8,6 +8,5 @@
         <string>{FACEBOOK_APP_ID}</string>
         <key>FacebookDisplayName</key>
         <string>{APP_NAME}</string>
-        <key>LSApplicationQueriesSchemes</key>
     </dict>
 </plist>
