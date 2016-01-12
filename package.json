@@ -1,6 +1,6 @@
 {
-  "name": "testing-plugin-var-plugin",
-  "version": "0.1.2",
+  "name": "plugin-var-plugin",
+  "version": "1.0.0",
   "nativescript": {
     "platforms": {
       "ios": "1.4.0",
