@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="plugin-var-plugin"
+        version="1.1.0">
+
+    <name>plugin-var-plugin</name>
+
+    <description>
+      This is a proof of concept plugin.
+    </description>
+
+    <preference name="FACEBOOK_APP_ID" default="DefaultAppId" />
+    <preference name="APP_NAME" />
+</plugin>
